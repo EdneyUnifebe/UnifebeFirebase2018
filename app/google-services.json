@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240797716075",
+    "firebase_url": "https://fir-2018-34e54.firebaseio.com",
+    "project_id": "fir-2018-34e54",
+    "storage_bucket": "fir-2018-34e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240797716075:android:bd162c9d1d3babb0",
+        "android_client_info": {
+          "package_name": "natalunifebe.unifebe.edu.br.firebase2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240797716075-vui343cgsknljoqtl7d5cc55p3vc7phi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "natalunifebe.unifebe.edu.br.firebase2018",
+            "certificate_hash": "8112ea612a253b2860e7ea02b93212cf6c9aa70e"
+          }
+        },
+        {
+          "client_id": "240797716075-glrhoka33occb3idhjceprqf4jjbh9fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_kv4XGnsYhHzI2CaaxUxEXxivyhDhVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240797716075-glrhoka33occb3idhjceprqf4jjbh9fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
